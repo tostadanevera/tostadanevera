@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tostadanevera
-- 👀 I’m interested in Competitive Programming and Microcontrollers
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Competitive Programming, Microcontrollers and PCB desgin
+- 🌱 I’m currently learning to use Kicad
